@@ -37,6 +37,4 @@ Chaque module doit contenir au minimum deux entités liées avec jointure
  
  #   E V H 
  
- #   E V H 
- 
  
