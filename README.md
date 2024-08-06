@@ -31,10 +31,7 @@ Chaque module doit contenir au minimum deux entités liées avec jointure
 - Une Seule Base de données partagée entre les 3 clients
 - Pas d’utilisation du bundle `FOSUSER `
 - Pas d’utilisation du Bundle `adminBundle` pour la gestion de la partie backoffice pour le Sprint Web
+- 
 #   E V H 
- 
- #   E V H 
- 
- #   E V H 
  
  
